@@ -1,7 +1,7 @@
 -- Week 7: ETL Setup Script
 -- Creates the required Standard Tables, Fact, Audit, and Error Logging Tables
 
--- NOTE: Wxecute this script against the new, dedicated DW_Demo_Labs database.
+-- NOTE: Execute this script against the new, dedicated DW_Demo_Labs database.
 
 USE DW_Demo_Labs;
 GO
